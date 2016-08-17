@@ -1,2 +1,4 @@
 # HelloWorld
-just say hello world
+Hello World!
+This is my first commit!
+I'm going to deploy app!
